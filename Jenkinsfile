@@ -30,7 +30,7 @@ post{
 success{
 echo 'successful'
 }
-failure{
+fail{
 echo 'not'
 }
 }
